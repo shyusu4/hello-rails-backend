@@ -10,7 +10,6 @@
   - [🚀 Live Demo](#live-demo)
   
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
@@ -25,7 +24,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello Rails Backend <a name="about-project"></a>
-Project to practice creating a full stack web app with Ruby on Rails backend and React frontend
+Project to practice creating a full stack web app with Ruby on Rails backend and React frontend. The app is a simple greeting app that displays a random greeting.
 
 - [Frontend](https://github.com/shyusu4/Hello-React-Frontend)<a name="react-frontend"></a>
 - [API Documentation]()<a name="api-docs"></a> Coming soon...
@@ -91,6 +90,8 @@ Run project using this command:
 ```
 rails s
 ```
+
+### Run tests
 
 Run tests using this command:
 ```
